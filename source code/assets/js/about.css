@@ -1,0 +1,68 @@
+body{
+	background-color: white;
+	color: black;
+}
+.dropdown-menu {  
+	background-color: #eaeaea;
+} 
+.dropdown-menu li a { 
+	padding: 5px; 
+ 	color: black;
+ 	background-color: white;
+} 
+.dropdown-menu li a:hover{
+	color: black;
+	background-color: #eaeaea;
+	font-family: Bahnschrift SemiBold Condensed;
+}
+.q{
+	float: left;
+	background-color: rgb(108, 89, 219);
+	margin-bottom: -1px;
+}
+.navbar{
+	background-color: black;
+}
+.container{
+	background-color: #333;
+	margin-right: 0px
+}
+.container .nav{
+	margin-right: 40px;
+}
+.col-lg-4 img{
+	width: 200px;
+	height: 200px;
+}
+.row{
+	font-family: Times New Roman;
+	font-weight: bold;
+} 
+.s{
+	padding: 10px;
+	background-color: white;
+	color: black;
+	font-weight: bold;
+}
+.col-lg-4 h2, h3{
+	margin-top: -0px;
+	font-weight: bold;
+}
+.col-lg-4 p img{
+	width: 30px;
+	height: 30px;
+	margin-top: -2px;
+	border-radius: 5px;
+}
+.col-lg-4 .logo img{
+	width: 50px;
+	height: 50px;
+}
+.col-lg-4 .logo{
+	font-size: 32px;
+	margin-top: 45px;
+	color: #eaeaea;
+}
+.col-lg-4 .lisan{
+	margin-top: 15px;
+}
